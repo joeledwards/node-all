@@ -39,6 +39,7 @@
     "@buzuli/scheduler": "^2.0.0",
     "@buzuli/seq": "^1.0.1",
     "@buzuli/throttle": "^2.0.2",
+    "@buzuli/unhandled": "^1.0.0",
     "@buzuli/url": "^1.0.0",
     "@buzuli/wd40": "^1.7.0",
     "aqui": "^7.1.3",
